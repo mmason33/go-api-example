@@ -1,7 +1,7 @@
 # Golang API Server Example
 
 Example built using:
-- [Golangv1.17](https://golang.org/dl/)
+- [Golang v1.17](https://golang.org/dl/)
 - [GoFiber](https://github.com/gofiber/fiber)
 
 Note: MySQL database is a local Docker Container.
