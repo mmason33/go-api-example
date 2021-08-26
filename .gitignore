@@ -1,0 +1,5 @@
+.env
+.editorconfig
+.DS_Store
+.vscode
+nuface-recommendation-server-golang
